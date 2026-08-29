@@ -1,0 +1,8 @@
+.login-card { padding: 24px; max-width: 360px; }
+
+/* BUG: fixed pixel width makes the 'Log in' button overflow the card on <380px screens */
+.login-card .btn-primary {
+  width: 400px;
+  padding: 12px 20px;
+  font-weight: 600;
+}
