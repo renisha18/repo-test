@@ -1,0 +1,13 @@
+.home-card { padding: 24px; max-width: 360px; text-align: center; }
+
+.home-card .home-logo { width: 72px; height: 72px; }
+
+.home-card .home-title {
+  margin: 12px 0 8px;
+  font-weight: 600;
+}
+
+.home-card .home-blurb {
+  margin: 0;
+  line-height: 1.5;
+}
