@@ -1,0 +1,7 @@
+{
+  "name": "repo-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test/run.js"
+  }
+}
